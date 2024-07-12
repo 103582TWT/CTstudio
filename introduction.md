@@ -76,7 +76,28 @@
 - 副社長：謙謙qian
 - 管理員
   - 人員：辰熙、涼麵、磊磊哥
-# 網站資料
+# 網站資料，~~作者的宣傳~~
 - 作者：磊磊哥 <br/>
   如果想要知道我平時會做什麼或玩什麼遊戲，記得訂閱我的YT頻道^^
-> 我的YT頻道 => [無名小哥的YT(手機請不要用Chrome開)](https://www.youtube.com/@TWT0824)
+> 我的YT頻道 => [無名小哥的YT](https://www.youtube.com/@TWT0824)
+## 正式開始宣傳
+迷你新地圖《記憶與背叛》預告 <br/>
+### 《記憶與背叛》預告圖
+**預告圖一** <br/>
+*事情並不像表面看起來那麼簡單*
+![預告圖一](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/449913607_1620193998776901_4697667178170335427_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=1HJ7jvNEwTQQ7kNvgGjyOo_&_nc_ht=scontent-tpe1-1.xx&oh=03_Q7cD1QHJtpT82BcP9otlTmBCMH3Kb1H3Tr-N9beSmpOLcnI0gg&oe=66B89876)
+**預告圖二** <br/>
+*黑暗中的光明將會是你前進未來最好的方法*
+![預告圖二](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/441208330_1855012515017611_1043624202792436482_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=bT81wv0BRYIQ7kNvgG1_p8s&_nc_ht=scontent-tpe1-1.xx&oh=00_AYBPfGs6QUvRSI1nEZorpofv7bikzICdHMDMNnyHupTIWQ&oe=66970466)
+**預告圖三** <br/>
+*看似接近，卻遙不可及*
+![預告圖三](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/441582494_1864778330707696_1188684116741333396_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=RLPVrxV6ilEQ7kNvgHf2Pss&_nc_ht=scontent-tpe1-1.xx&oh=00_AYDtn3omj3ibnpZi8fEh680_0GdcqhwDLCvxGBbap8LK1Q&oe=66971704)
+**預告圖四** <br/>
+*不要只想著逃避現實，應該去面對他*
+![預告圖四](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/449639276_1892537497931779_826062265354671001_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=PX4BbgGXoFsQ7kNvgHtQyLU&_nc_ht=scontent-tpe1-1.xx&oh=00_AYCDLY3rg3P1U8-XXajMuKcw9n0s8bqLHqdHo8VORW_aqw&oe=6696F49A)
+### 《記憶與背叛》預告片
+**釋出預告一** <br/>
+[釋出預告一/YT](https://youtu.be/5Bhkpuo0uMA) <br/>
+<br/>
+**釋出預告二** <br/>
+[釋出預告二/YT](https://youtu.be/OJIDqr1vNk4)
