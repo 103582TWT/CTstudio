@@ -104,4 +104,4 @@
 [釋出預告一/YT](https://youtu.be/5Bhkpuo0uMA) <br/>
 <br/>
 **釋出預告二** <br/>
-[釋出預告二/YT](https://youtu.be/OJIDqr1vNk4)
+[釋出預告二/YT](https://www.youtube.com/watch?v=OJlDqr1vNk4)
