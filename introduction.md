@@ -6,7 +6,7 @@
 - 測試部🔧 <br/> 負責測試地圖、檢查bug
 - 辦公部📝 <br/> 負責統計人數，計算社員貢獻，檢查違規行為報告給管理層
 - 研究部⚙️ <br/> 負責創新的技術，通過將觸發器、UI、腳本、電路組合在一起創造新技術
-- 機動部🔍 <br/> 負責反間諜、臥底及防停商業競爭
+- 機動部🔍 <br/> 負責反間諜、臥底及工作室的外交和合作
 - 生存部⛏️ <br/> 負責在地圖戰鬥、幫助工作室在其他生存發育
 - 戲劇部🎬 <br/> 負責拍攝宣傳片以及一些影視作品等
 - 財政部💰 <br/> 負責掌管工資、項目開銷以及一些報銷等
@@ -75,9 +75,8 @@
   - 成員：**暫無**
 ### 工作室特殊成員
 - 社長：辰熙
-- 副社長：謙謙qian
-- 管理員
-  - 人員：辰熙、涼麵、磊磊哥
+- 副社長：磊磊哥
+- 管理員：辰熙、涼麵、磊磊哥、謙謙qian
 # 網站資料，~~作者的宣傳~~
 - 作者：磊磊哥 <br/>
   如果想要知道我平時會做什麼或玩什麼遊戲，記得訂閱我的YT頻道^^
@@ -86,20 +85,20 @@
 迷你新地圖《記憶與背叛》預告 <br/>
 ### 《記憶與背叛》預告圖
 **預告圖一** <br/>
-*事情並不像表面看起來那麼簡單*
-![預告圖一](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/449913607_1620193998776901_4697667178170335427_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=1HJ7jvNEwTQQ7kNvgGjyOo_&_nc_ht=scontent-tpe1-1.xx&oh=03_Q7cD1QHJtpT82BcP9otlTmBCMH3Kb1H3Tr-N9beSmpOLcnI0gg&oe=66B89876)
+*事情並不像表面看起來那麼簡單* <br/>
+![預告圖一](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.15752-9/449913607_1620193998776901_4697667178170335427_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=1HJ7jvNEwTQQ7kNvgGjyOo_&_nc_ht=scontent-tpe1-1.xx&oh=03_Q7cD1QHJtpT82BcP9otlTmBCMH3Kb1H3Tr-N9beSmpOLcnI0gg&oe=66B89876) <br/>
 **預告圖二** <br/>
-*黑暗中的光明將會是你前進未來最好的方法*
-![預告圖二](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/441208330_1855012515017611_1043624202792436482_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=bT81wv0BRYIQ7kNvgG1_p8s&_nc_ht=scontent-tpe1-1.xx&oh=00_AYBPfGs6QUvRSI1nEZorpofv7bikzICdHMDMNnyHupTIWQ&oe=66970466)
+*黑暗中的光明將會是你前進未來最好的方法* <br/>
+![預告圖二](https://scontent.fkhh1-1.fna.fbcdn.net/v/t39.30808-6/441208330_1855012515017611_1043624202792436482_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=uO1QrYOMGYIQ7kNvgGJse6R&_nc_ht=scontent.fkhh1-1.fna&oh=00_AYD7r7DfpltPqNofKEiUWlQK4RHP1hqBhvgYb6tOo64m3w&oe=66BBB626)<br/>
 **預告圖三** <br/>
-*看似接近，卻遙不可及*
-![預告圖三](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/441582494_1864778330707696_1188684116741333396_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=RLPVrxV6ilEQ7kNvgHf2Pss&_nc_ht=scontent-tpe1-1.xx&oh=00_AYDtn3omj3ibnpZi8fEh680_0GdcqhwDLCvxGBbap8LK1Q&oe=66971704)
+*看似接近，卻遙不可及* <br/>
+![預告圖三](https://scontent.fkhh1-1.fna.fbcdn.net/v/t39.30808-6/441582494_1864778330707696_1188684116741333396_n.jpg?stp=dst-jpg_p180x540&_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=24EIWFJDJLoQ7kNvgE8N_cp&_nc_ht=scontent.fkhh1-1.fna&oh=00_AYAueimW0eefETZzqt-CRSYayGBXz4DfhNOGfOrgzRqu2Q&oe=66BBC8C4) <br/>
 **預告圖四** <br/>
-*不要只想著逃避現實，應該去面對他*
-![預告圖四](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/449639276_1892537497931779_826062265354671001_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=PX4BbgGXoFsQ7kNvgHtQyLU&_nc_ht=scontent-tpe1-1.xx&oh=00_AYCDLY3rg3P1U8-XXajMuKcw9n0s8bqLHqdHo8VORW_aqw&oe=6696F49A)
+*不要只想著逃避現實，應該去面對他* <br/>
+![預告圖四](https://scontent.fkhh1-2.fna.fbcdn.net/v/t39.30808-6/449639276_1892537497931779_826062265354671001_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=OppdhaDS6_QQ7kNvgFijm04&_nc_ht=scontent.fkhh1-2.fna&oh=00_AYDQ6sPoGFbmhTla6WPDYaZoB774xD8UB8WoUqMsYtsTCw&oe=66BBA65A) <br/>
 **預告圖五** <br/>
-*Play or Die*
-![預告圖五](https://scontent.fkhh1-1.fna.fbcdn.net/v/t39.30808-6/454562095_1914744375711091_7180880561929774215_n.jpg?stp=dst-jpg_p180x540&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=BfmM5Lzm7bUQ7kNvgHFq3Bd&_nc_ht=scontent.fkhh1-1.fna&oh=00_AYCMopptvrTInxOOY5hlj1KaZrwqJFHZ_yUBnmu6Vo4VBw&oe=66BB961C)
+*Play or Die* <br/>
+![預告圖五](https://scontent.fkhh1-1.fna.fbcdn.net/v/t39.30808-6/454562095_1914744375711091_7180880561929774215_n.jpg?stp=dst-jpg_p180x540&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=BfmM5Lzm7bUQ7kNvgHFq3Bd&_nc_ht=scontent.fkhh1-1.fna&oh=00_AYCMopptvrTInxOOY5hlj1KaZrwqJFHZ_yUBnmu6Vo4VBw&oe=66BB961C) <br/>
 ### 《記憶與背叛》預告片
 **釋出預告一** <br/>
 [釋出預告一/YT](https://youtu.be/5Bhkpuo0uMA) <br/>
