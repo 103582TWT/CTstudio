@@ -97,6 +97,9 @@
 **預告圖四** <br/>
 *不要只想著逃避現實，應該去面對他*
 ![預告圖四](https://scontent-tpe1-1.xx.fbcdn.net/v/t39.30808-6/449639276_1892537497931779_826062265354671001_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=PX4BbgGXoFsQ7kNvgHtQyLU&_nc_ht=scontent-tpe1-1.xx&oh=00_AYCDLY3rg3P1U8-XXajMuKcw9n0s8bqLHqdHo8VORW_aqw&oe=6696F49A)
+**預告圖五** <br/>
+*Play or Die*
+![預告圖五](https://scontent.fkhh1-1.fna.fbcdn.net/v/t39.30808-6/454562095_1914744375711091_7180880561929774215_n.jpg?stp=dst-jpg_p180x540&_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=BfmM5Lzm7bUQ7kNvgHFq3Bd&_nc_ht=scontent.fkhh1-1.fna&oh=00_AYCMopptvrTInxOOY5hlj1KaZrwqJFHZ_yUBnmu6Vo4VBw&oe=66BB961C)
 ### 《記憶與背叛》預告片
 **釋出預告一** <br/>
 [釋出預告一/YT](https://youtu.be/5Bhkpuo0uMA) <br/>
